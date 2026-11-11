@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Leonardo Moura! 👋
 
-<!--
-**LeonardoMR97/LeonardoMR97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Desenvolvedor de Sistemas & Soluções Web (Full Stack)
+Atuo no desenvolvimento e arquitetura de sistemas de gestão escolares e corporativos, com foco em PHP, bancos de dados relacionais (MariaDB/MySQL) e aplicações mobile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias & Ferramentas
+- **Back-end:** PHP (Nativo & MVC/BLL), C#, MariaDB, MySQL, SQL Server
+- **Front-end:** HTML5, CSS3, JavaScript
+- **Mobile & Outros:** Flutter, Git/GitHub, Linux / Bash
+- **Sistemas de Gestão:** Arquitetura de Software, Modelagem de Dados, ISO 9001 (Documentação Técnica)
+
+---
+
+### 📌 Projetos em Destaque
+- **Sistema de Gestão Escolar (Colégio Alecrim Dourado):** Plataforma web completa desenvolvida em PHP com gestão de turmas, alunos, notas, boletins e controlo de acessos.
+
+---
+
+📫 **Como me encontrar:**
+- 🌐 [Sistema Alecrim Dourado](https://alecrimdourado.alwaysdata.net/)
+- 💼 [LinkedIn](teu-link-do-linkedin-aqui)
